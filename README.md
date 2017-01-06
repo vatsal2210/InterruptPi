@@ -8,3 +8,5 @@ You can learn how to use sensors with Raspberry Pi and Node Js. On the trigger e
 Here I called mailer.js file and use SendEmail function to send Email to the user when interrupt is detected.
 
 I used the WhatsMate API to send message on telegram and whatsapp also. Any message you can receive on your phone when any event is trigger. 
+
+You can contact me on: www.vatsalshah.in

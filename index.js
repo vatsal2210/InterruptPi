@@ -1,4 +1,4 @@
-//Add your PIR sensor on Raspberry Pi 26 number as Input and buzzer on 26 number as Output.
+//Attached your PIR sensor on Raspberry Pi 26 number as Input and buzzer on 26 number as Output.
 //As PIR sensro detetcs as event mailer.js file call and sendEmail trigger.
 
 var Gpio = require('onoff').Gpio,
